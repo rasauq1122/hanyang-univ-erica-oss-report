@@ -66,3 +66,4 @@ QNA를 눈팅만 하던 내가 한번 직접적으로 남들의 질문에 답변
 [1997 숨바꼭질](https://www.acmicpc.net/board/view/43988)  
 [1641 도서관](https://www.acmicpc.net/board/view/44316)  
 [17223 해시그래프](https://www.acmicpc.net/board/view/44317)  
+[2231 분해합](https://www.acmicpc.net/board/view/44322)
